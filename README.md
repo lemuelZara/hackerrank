@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src=".github/hackerrank.svg" width="200">
+    <img src=".github/hackerrank.svg" width="400">
 </h1>
 
 <p align="center">
