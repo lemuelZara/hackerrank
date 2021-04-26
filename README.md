@@ -1,10 +1,10 @@
 <h1 align="center">
-    <img src=".github/hackerrank.svg">
+    <img src=".github/hackerrank.svg" width="200">
 </h1>
 
-<h1 align="center">
+<p align="center">
     <img src="https://shields.io/badge/Java-39424e?logo=java&labelColor=1ba94c">
-</h1>
+</p>
 
 <p align="center">Resolução dos desafios da plataforma HackerRank.</p>
 
