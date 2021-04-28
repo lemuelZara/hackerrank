@@ -18,4 +18,4 @@
 |-----------------------|:---------:|
 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Veja aqui](./Interview%20Preparation%20Kit/Arrays/2d-array-ds.java) |
 | [Arrays: Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Veja aqui](./Interview%20Preparation%20Kit/Arrays/left-rotation.java)  |
-|                       |           |
+| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays) | [Veja aqui](./Interview%20Preparation%20Kit/Arrays/new-year-chaos.java) |
