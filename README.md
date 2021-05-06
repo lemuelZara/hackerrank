@@ -29,3 +29,4 @@
 | Questão               | Resolução |
 |-----------------------|:---------:|
 | [Hash Tables: Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs=interview-preparation-kit&playlist_slugs=dictionaries-hashmaps) | [Veja aqui](./Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/hash-tables-ransom-note.java) |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs=interview-preparation-kit&playlist_slugs=dictionaries-hashmaps) | [Veja aqui](./Interview%20Preparation%20Kit/Dictionaries%20and%20Hashmaps/two-strings.java) |
