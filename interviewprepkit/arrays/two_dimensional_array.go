@@ -15,11 +15,11 @@ func TwoDimensionalArray(arr [][]int32) int32 {
 				break
 			}
 
-			firstColumn := arr[i][j] + arr[i][j+1] + arr[i][j+2]
-			secondColumn := arr[i+1][j+1]
-			thirdColumn := arr[i+2][j] + arr[i+2][j+1] + arr[i+2][j+2]
+			firstRow := arr[i][j] + arr[i][j+1] + arr[i][j+2]
+			secondRow := arr[i+1][j+1]
+			thirdRow := arr[i+2][j] + arr[i+2][j+1] + arr[i+2][j+2]
 
-			totalSum := firstColumn + secondColumn + thirdColumn
+			totalSum := firstRow + secondRow + thirdRow
 
 			if totalSum > maxSum {
 				maxSum = totalSum
